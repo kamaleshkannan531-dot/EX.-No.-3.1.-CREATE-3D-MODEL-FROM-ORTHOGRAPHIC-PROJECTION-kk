@@ -70,11 +70,15 @@ Apply secondary cuts, bosses, and feature detailing until all orthographic requi
 --Place edge blends (fillets and chamfers) at the end of the modeling timeline, not inside 2D sketches, to maintain ease of editing.
 
 ## INPUT:
+
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+
 <img width="740" height="686" alt="Screenshot 2026-11-10 133211" src="https://github.com/user-attachments/assets/7f8912d0-5272-4dcd-b098-df8d07f1ded2" />
-## Drawing:
+
+## Drawing: 
+
 <img width="970" height="690" alt="Screenshot 2026-11-10 133220" src="https://github.com/user-attachments/assets/029ba952-01a6-473b-b76b-7edce9eee8ec" />
 
 ## RESULT:
